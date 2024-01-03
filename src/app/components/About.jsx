@@ -1,12 +1,14 @@
 import React from 'react'
 import Image from 'next/image'
+import Link from 'next/link'
 const About = () => {
   return (
    <section className='text-white'> <div className='md:grid md:grid-cols2 gap-3 items-center py-8 px-4  xl:gap-16 sm:py-16 sm:px-12 text-center font-extrabold text-3xl sm:text-3xl' style={{fontFamily:"serif",  }}>About Me</div>
    <div><p className='text-base lg:text-lg text-[#ADB7BE] hover:text-white pl-64' style={{textAlign:'match-parent'}}>
-              I am Khyathi Kancharla studying in KL University. i am in my third year on CSE(Honors).I am skilled in WordPress,HTML,CSS,JavaScript ,React Native,Bootstrap and Agile practices. As a technology enthusiastic person, I would love to learn and explore new technologies and a quick learner. Finally, I am a team player and willing to work and ensure I put my fullest efforts in the work I do.
-             
-           </p>
+              I am Khyathi Kancharla studying in KL University. i am in my third year on CSE(Honors).I am skilled in WordPress,HTML,CSS,JavaScript ,React Native,Bootstrap and Agile practices. As a technology enthusiastic person, I would love to learn and explore new technologies and a quick learner. Finally, I am a team player and willing to work and ensure I put my fullest efforts in the work I do.   
+            </p>
+         
+           
           
            </div>
            <div className="rounded-full bg-[#000000] w-[200px] h-[200px] lg:w-[330px] lg:h-[530px]  relative">
