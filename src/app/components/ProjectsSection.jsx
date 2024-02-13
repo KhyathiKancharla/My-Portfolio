@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use client";
 import React, { useState, useRef } from "react";
 import ProjectsCard from "./ProjectsCard";
@@ -113,3 +114,14 @@ const ProjectsSection = () => {
 };
 
 export default ProjectsSection;
+=======
+//import React from 'react'
+//import ProjectsCard from './ProjectsCard'
+//const ProjectsSection = () => {
+  //return (
+    
+  //)
+//}
+
+//export default ProjectsSection
+>>>>>>> 19937b0937ce95d91cd976a2326bf279d4555c9a
