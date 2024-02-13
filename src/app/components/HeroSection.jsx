@@ -40,12 +40,7 @@ const HeroSection = () => {
            I am computer science and engineering major student at K L University
           </p>
           <div>
-            <Link
-              href="/#contact"
-              className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-white hover:bg-slate-200 text-black"
-            >
-              Hire Me
-            </Link>
+         
             <Link
               href="/"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-transparent hover:bg-slate-800 text-white mt-3"
